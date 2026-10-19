@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min
+HasRecovered;70;100;0.552238806;1;3;10;NA
+WhyRecovered;50;100;NA;NA;5;10;NA
+ActivityPattern;40;100;0.104477612;1;6;10;NA
+Currentstatus;60;100;0.402985075;1;4;10;NA
+RecentThemes;0;100;NA;NA;10;10;NA

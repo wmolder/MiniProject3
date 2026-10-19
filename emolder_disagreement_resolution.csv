@@ -1,0 +1,4 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence;AdjudicatedValue;ResolutionType;PostDiscussAgreementStatus;Comments
+dlr-rm_blenderproc;rkabarwa;emolder;HasRecovered;None;No;No;timeseries.png;None;AuthorKept;Yes;
+riatelab_cartography;rkabarwa;emolder;HasRecovered;No;No;Yes;timeseries.png;No;AuthorKept;Yes;
+patrickzib_sfa;rkabarwa;emolder;Currentstatus;Active;Stopped;No;timeseries.png;Active;AuthorKept;Yes;
